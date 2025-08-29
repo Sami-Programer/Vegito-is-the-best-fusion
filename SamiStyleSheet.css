@@ -1,0 +1,45 @@
+body {
+background-color:black;
+font-family:"Times New Roman",Times,serif;
+font-size:20pt;
+color:#800000;/*Dark maroon for body text*/
+text-align: center; /*Keeps paragraphs center-aligned*/
+} 
+h1 {
+display:inline-block;  
+background-color:lightBlue;
+font-size: 32pt;
+color:red;
+padding: 5px 10px;
+margin:20px auto;
+text-align: center;
+}
+h2  {
+text-align:left;
+background-color:#000000;
+color:red;
+}
+img  {
+display:block;
+float:left;
+margin:0 15px 15px 0;
+}
+p {
+background-color:white;
+font-family:"Times New roman". Times, Serif;
+font-size:12pt;
+}
+p.shrt{
+display:inline-block;
+background-color:lightyellow:
+width:600px:
+padding: 5px 10px:
+margin: 10px o:
+text-align: center;
+}
+.row{
+display:flex;
+gap:20px;
+}
+li{
+text align: left;
